@@ -1,0 +1,37 @@
+/* h2 {
+  color: red;
+}
+.firstp {
+  color: palevioletred;
+} */
+
+/* text property */
+h1 {
+  color: red;
+  font-size: 30px;
+  font-family: "Edu VIC WA NT Hand", cursive;
+  text-align: center;
+}
+
+/* background property */
+
+p {
+  background: local;
+  background-color: aqua;
+  background-image: url(../Gym_img.jpg);
+}
+
+/* layout property */
+
+h2 {
+  display: flex;
+  position: absolute;
+  grid-row: 30px;
+}
+
+/* Visibility Property */
+
+img {
+  opacity: 0.3;
+  box-shadow: 5px 5px 10px green;
+}
